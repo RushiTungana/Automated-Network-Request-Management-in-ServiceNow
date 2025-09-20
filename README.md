@@ -1,0 +1,2 @@
+# Automated-Network-Request-Management-in-ServiceNow
+The project "Automated Network Request Management in ServiceNow" automates network service requests like new connections and relocations via a self-service portal. It uses dynamic forms, workflows, and approvals to streamline processing, supports integration with automation tools, provides real-time updates, and enables reporting and SLA tracking
